@@ -14,7 +14,7 @@ import (
 )
 
 const (
-	SlackApi   string = ""
+	SlackApi   string = "ここにSlack Appで発行したWebhook URLをコピペする"
 	DateLayout string = "2006-01-02"
 )
 
