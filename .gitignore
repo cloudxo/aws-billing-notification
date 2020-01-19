@@ -1,2 +1,6 @@
+bin
+
+# Serverless directories
+.serverless
 .idea
 .DS_Store
